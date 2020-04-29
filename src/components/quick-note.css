@@ -1,0 +1,17 @@
+.quick-note {
+    place-self: center stretch;
+}
+
+.edit-input {
+    height: 2em;
+    font-size: 1em;
+    width: 100%;
+}
+
+.edit-area {
+    width: 100%;
+}
+
+.with-space {
+    margin: 0 0.5em;
+}
